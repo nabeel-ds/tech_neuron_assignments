@@ -8,11 +8,13 @@ calculating its difference will give us the IQR.
 Answer: 5 number theory gives us the summary of the data. It gives the descriptive statistics of the dataset. 5 number includes minimum value, maximum value, first quartile (Q1), second quartile (Q2/median) and third quartile (Q3) values. 
 
 3. What is the relationship between standard deviation and variance? 
-Answer: Variance and standard deviation both gives the idea of spread of the data. Variance is the square of the standard deviation. variance = standard_deviation^2
+Answer: Variance and standard deviation both gives the idea of spread of the data. Variance is the square of the standard deviation. 
+variance = standard_deviation^2
 
 4. What does the difference between variance and standard deviation mean? 
-Answer: 
+Answer: Variance is used to measure how far the data values are dispersed/spread from the mean, and the standard deviation is used to calculate the amount of dispersion/spread of the given data set values
 
 5. When is it appropriate to refer to a skewed data distribution?
-Answer: 
-
+Answer: When the distribution contains very extreme values on either lower or higher end then the distribution is said to be either left or right skewed. 
+if the distribution is skewed then it would affect the performance of a model as the model gives unnecessary importance to extreme values, these extreme values are called as outliers.
+We should treat them accordingly, to improve the performance of the model.
