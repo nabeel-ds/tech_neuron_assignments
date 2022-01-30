@@ -7,9 +7,10 @@ Answer: The value of z-score will basically tell you how many standard deviation
 z-score= x-mean/standard_dev
 
 3. What is an outlier, exactly? 
-Answer:
+Answer: An outlier is the abnormal value that is either very large or very small in the given range. Due to these values the mean of the distribution gets shifted to right or left. for example we have a group of people who earns a particular amount, let say there average income is around 30k. so we can say that every person of this group on an average earns the 30k. But what if we include the ambani in this group, the average income of the group would drastically increase. So here ambani will be an outlier of the sample. 
 
 4. What are our options for dealing with outliers in our dataset? 
-Answer:
+Answer: As we know the outliers affects the calculation and it gives us a wrong sense of the data. which could lead to wrong insights. So before doing analysis, we should treat them accordingly. Usually we replace these extreme values with the median values. As median is not gets affected by the outliers. In case of categorical data we could replace them by mode values. 
 
 5. Write the sample and population variances equations and explain Bessel  Correction.
+Answer: 
