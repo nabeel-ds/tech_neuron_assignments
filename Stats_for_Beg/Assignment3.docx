@@ -1,0 +1,15 @@
+                                                            Statistics Assignment 3   
+1. Write the Gaussian Distribution empirical formula. 
+Answer:68%-95%-99.7%. Empirical formula states that, 68% of the data following normal distribution lies within the 1st standard deviation from the mean. Similarly, 95% of the data lies within the 2 standard deviation from the mean, and 99.7% of the data lies within the 3 standard deviation from the mean. 
+
+2. What is the Z-score, and why is it important? 
+Answer: The value of z-score will basically tell you how many standard deviation the data point is away from the mean. if it is zero then it means the data point is at the mean. if the z-score is 1 then it means it is 1 standard deviation above the mean. z-score is also called as the standard score. the z-score formula gives a way of normalizing the data to a standard based on how many standard deviations values lie from the mean. 
+z-score= x-mean/standard_dev
+
+3. What is an outlier, exactly? 
+Answer:
+
+4. What are our options for dealing with outliers in our dataset? 
+Answer:
+
+5. Write the sample and population variances equations and explain Bessel  Correction.
